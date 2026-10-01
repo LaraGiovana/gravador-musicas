@@ -1,9 +1,11 @@
 {
-  "name": "teste01",
+  "name": "minha-playlist",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "expo": "~57.0.25",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.26",
+    "expo-audio": "~57.0.5",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
     "react-native": "0.86.3"
